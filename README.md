@@ -1,1 +1,1 @@
-# nifty_vs_gold
+ Gary Antonacci’s Dual Momentum strategy
